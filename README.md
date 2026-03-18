@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=![20241007_140225](https://github.com/user-attachments/assets/08ce9323-ae06-46aa-b4d1-4204285d0ad8) alt="Banner de Javi" width="100%">
+</p>
+
 # ¡Hola! Soy Javi
 
 ### Desarrollador Full Stack | Entusiasta del Open Source
