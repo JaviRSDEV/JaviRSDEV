@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Javi
 
-<!--
-**JaviRSDEV/JaviRSDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | Entusiasta del Open Source
 
-Here are some ideas to get you started:
+Soy un apasionado de la tecnología enfocado en crear soluciones eficientes y escalables. Me encanta aprender nuevas herramientas y compartir lo que aprendo con la comunidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Mis Tecnologías
+
+| Frontend | Backend | Herramientas |
+| :--- | :--- | :--- |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+### En qué estoy trabajando actualmente
+-  Estoy trabajando en **CARLOG**
+-  Actualmente aprendiendo **TypeScript y Angular**
+-  Cómo contactarme: **jarase2004@gmail.com**
+
+---
+
+### Conectemos
+<p align="left">
+<a href="https://www.linkedin.com/in/javier-ram%C3%ADrez-b796a8251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
