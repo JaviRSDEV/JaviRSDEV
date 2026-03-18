@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08ce9323-ae06-46aa-b4d1-4204285d0ad8" alt="Banner de Javi" width="100%">
+  <img width="1500" height="1500" alt="Banner" src="https://github.com/user-attachments/assets/38c06969-4269-412e-8ffa-09606e7e2593" />
 </p>
 
 # ¡Hola! Soy Javi
