@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Javi
 
-### Desarrollador Full Stack | Entusiasta del Open Source
+### Desarrollador Full Stack | Apasionado por la informática
 
 Soy un apasionado de la tecnología enfocado en crear soluciones eficientes y escalables. Me encanta aprender nuevas herramientas y compartir lo que aprendo con la comunidad.
 
